@@ -11,3 +11,4 @@ Solving interesting problems with java; More for a learning purpose;
    * compare the length of two words if not equals it is NOT an anagram.
    * pick up a letter from both words and remove the letter from both words; loop the process till two word strings are empty;
    * <Anagram.java>
+4. Write a program that take in two matrices and then allow the user to choose to add, subtract, or multiply them and display the answer.
