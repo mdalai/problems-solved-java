@@ -18,7 +18,7 @@ Solving interesting problems with java; More for a learning purpose;
 5. **Card Game 1**: randomly add a card if user asks;  allow the user to continue to add cards to the hand until the number of points goes over 21 or the user decides not to add any more cards or the total number of cards is 5.
    * folder 'card1': <Card.java> <Main2.java>
    
-<br/>
+
 # Java basic class form
 ```
 public class template {
