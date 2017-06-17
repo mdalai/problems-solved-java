@@ -17,6 +17,10 @@ Solving interesting problems with java; More for a learning purpose;
    * <MatrixOperation.java>
 5. **Card Game 1**: randomly add a card if user asks;  allow the user to continue to add cards to the hand until the number of points goes over 21 or the user decides not to add any more cards or the total number of cards is 5.
    * folder 'card1': <Card.java> <Main2.java>
+6. **Fish Friendliness Comparison**
+   * Ternary Operation: String ans = num <= 7? "True" : "False";
+   * Variable Arguments: public Fish nicestFish(Fish ... numFish) { }
+   * <Fish.java>
    
 
 # Java basic class form
