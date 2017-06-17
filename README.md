@@ -27,6 +27,9 @@ Solving interesting problems with java; More for a learning purpose;
    * instance variables can only be accessed to getter or setter methods
    * Outerclass.InnerClass object name = new Outerclass.InnerClass (parameter);
    * folder 'Vehicles': <Vehicle.java> <TestVehicle.java>
+   
+8. **Factorial**: Factorial: 10! = 1  * 2 *  3 * 4 * 5 * 6 * 7 * 8 * 9 * 10 = 3628800
+   * <Factorial.java>
 
 # Java basic class form
 ```
