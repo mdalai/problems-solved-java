@@ -21,7 +21,12 @@ Solving interesting problems with java; More for a learning purpose;
    * Ternary Operation: String ans = num <= 7? "True" : "False";
    * Variable Arguments: public Fish nicestFish(Fish ... numFish) { }
    * <Fish.java>
-   
+7. **Vehicle**
+   * static keyword: constanct
+   * static variables can be accessed without creating the object
+   * instance variables can only be accessed to getter or setter methods
+   * Outerclass.InnerClass object name = new Outerclass.InnerClass (parameter);
+   * folder 'Vehicles': <Vehicle.java> <TestVehicle.java>
 
 # Java basic class form
 ```
