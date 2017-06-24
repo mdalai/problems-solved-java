@@ -36,6 +36,11 @@ Solving interesting problems with java; More for a learning purpose;
    * used StringBuilder: much convenient. 
    * when do String Processing, StringBuilder is good option. It saves memory resources and it has many convenient methods like insert, remove and replace etc.
    * <jp3/StringProcessing.java>
+10. **Birthday ArrayList by Regex**:
+   * ArrayList stores Date object: ArrayList<Date> birthdays = new ArrayList<Date>();
+   * use Pattern and Matcher: Pattern.compile("([0-9]{2})/([0-9]{2})/([0-9]{4})");
+   *<jp3/Date.java>
+   
 
 # Java basic class form
 ```
