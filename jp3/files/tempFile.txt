@@ -1,0 +1,3 @@
+hello Java.
+It is fun and challenging to learn you.
+move forward!
