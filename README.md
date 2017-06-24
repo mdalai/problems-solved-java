@@ -40,6 +40,12 @@ Solving interesting problems with java; More for a learning purpose;
    * ArrayList stores Date object: ArrayList<Date> birthdays = new ArrayList<Date>();
    * use Pattern and Matcher: Pattern.compile("([0-9]{2})/([0-9]{2})/([0-9]{4})");
    *<jp3/Date.java>
+   *<jp3/RegularExp.java>: ReplaceAll examples;
+11. ** Recursion **
+   * Linear recursion: Factorial()
+   * Non-linear recursion: Fibonacci()
+   * <jp3/LinearRecursion.java> 
+   * <jp3/NonLinearRecursion.java>
    
 
 # Java basic class form
