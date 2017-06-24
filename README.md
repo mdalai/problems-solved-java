@@ -46,6 +46,9 @@ Solving interesting problems with java; More for a learning purpose;
    * Non-linear recursion: Fibonacci()
    * <jp3/LinearRecursion.java> 
    * <jp3/NonLinearRecursion.java>
+12. ** Java Input/Output *
+   * <jp3/ReadFile.java>
+   * <jp3/resolvePaths.java>
    
 
 # Java basic class form
