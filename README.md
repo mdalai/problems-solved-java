@@ -30,6 +30,12 @@ Solving interesting problems with java; More for a learning purpose;
    
 8. **Factorial**: Factorial: 10! = 1  * 2 *  3 * 4 * 5 * 6 * 7 * 8 * 9 * 10 = 3628800
    * <Factorial.java>
+   
+9. **Reverse String**: 
+   * used String object to reverse: check out the reverse method
+   * used StringBuilder: much convenient. 
+   * when do String Processing, StringBuilder is good option. It saves memory resources and it has many convenient methods like insert, remove and replace etc.
+   * <jp3/StringProcessing.java>
 
 # Java basic class form
 ```
